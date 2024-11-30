@@ -1,2 +1,2 @@
-Quarta modificação no texto.
-Deletando tudo.
+Quinta modificação, apagando tudo e utilizando diff.
+Troca de world por guys.
