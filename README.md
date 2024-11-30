@@ -1,2 +1,2 @@
-Segunda modificação.
-Terceira modificação.
+Quarta modificação no texto.
+Deletando tudo.
